@@ -75,7 +75,7 @@ body {
 /* ---- HERO SECTION ---- */
 .hero {
     background: linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.55)),
-                url('images/hero.webp') center/cover no-repeat;
+                url('../images/hero.webp') center/cover no-repeat;
     height: 90vh;
     display: flex;
     align-items: center;
